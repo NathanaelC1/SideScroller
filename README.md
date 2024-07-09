@@ -1,5 +1,8 @@
 🔴About
-This game called MushRush, where player need to avoid trap and enemy. You can't kill the enemy so you need to avoid it. 
+
+This game called MushRush, where player need to avoid trap and enemy.
+
+You can't kill the enemy so you need to avoid it. 
 
 
 🕹️Download Game
